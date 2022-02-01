@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import user from "../Images/user.png";
+import user from "../../Images/user.png";
 import { IoMdMail } from "react-icons/io";
 import { BsTelephoneFill } from "react-icons/bs";
 import { MdModeEdit } from "react-icons/md";

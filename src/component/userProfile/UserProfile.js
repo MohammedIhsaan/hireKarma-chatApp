@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import UserProfileNavBar from "./UserProfileNavBar";
+import UserProfileNavBar from "../userProfileNavBar/UserProfileNavBar";
 import { MdModeEdit } from "react-icons/md";
 
 const Container = styled.div``;
